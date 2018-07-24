@@ -3,7 +3,6 @@ package com.robsonsilva.cursomc.repositories;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.robsonsilva.cursomc.domain.Categoria;
 import com.robsonsilva.cursomc.domain.ItemPedido;
 
 @Repository
