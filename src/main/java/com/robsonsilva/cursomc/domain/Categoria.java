@@ -11,7 +11,6 @@ import javax.persistence.Id;
 import javax.persistence.ManyToMany;
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;
-import com.robsonsilva.cursomc.Produto;
 
 @Entity
 public class Categoria implements Serializable {
